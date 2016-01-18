@@ -26,6 +26,4 @@ The primary goal of our sessions app is to be a place where it is easy to:
 
 ## Progress tracking
 
-A key design constrait is that challenges are automatically evalauted
-We integrate with modern wearable/sensor technology and software to track progress.
-The system atuoamtically promotes an active challenge to a completed one.
+A key design constrait is that progress is detected and evaluated automatically. We integrate with modern wearable/sensor technology and software to track progress. The system atuoamtically promotes an active challenge to a completed one. The mobile app sends an optional notification when moving a challenge to the completed state.
