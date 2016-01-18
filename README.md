@@ -12,6 +12,7 @@ The natural flow is to:
   2. save/bookmark the challenge
   3. decide you want to attempt it
   4. perform activities to complete it
+  5. challenge is completed when criteria is met
   
 While this is the most natural flow, there are other cases.
 You might "give up" on an active challenge and decide to save it for later or ditch it.
