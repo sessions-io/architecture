@@ -18,6 +18,12 @@ While this is the most natural flow, there are other cases.
 You might "give up" on an active challenge and decide to save it for later or ditch it.
 You might remove a saved/bookmarked challenge if you decide later you dont want to do it.
 
+The primary goal of our sessions app is to be a place where it is easy to:
+
+  1. view and evaluate challenges you have saved "do i want to start this now?"
+  2. monitor the progress of active challenges "how far along am i? what do i need to do today? can I wait until tomorrow?"
+  3. view the completion of past challgens. "how did i perform in challenges last week?" 
+
 ## Progress tracking
 
 A key design constrait is that challenges are automatically evalauted
