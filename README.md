@@ -1,6 +1,7 @@
 # Sessions Mobile App
 
 Sessions is an open source mobile app that manages personal fitness challenges.
+Fitness challenges are defined in the [challenge spec](https://github.com/sessions-io/challenge-spec).
 Fitness challenges can be in one of 3 states: 'saved', 'active' or 'complete'
 A saved challenge is something you want to do, but are not ready for yet.
 An active challenge is something you are trying to achieve right now.
